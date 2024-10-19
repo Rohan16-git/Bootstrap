@@ -3,22 +3,8 @@
 
 }
 
-.item {
+.item { 
 
-    /* display: flex; */
-    /* justify-content: center; */
-
-    padding: 40px;
-}
-
-.f1 {
-    display: flex;
-    justify-content: center;
-    
-    text-transform: uppercase;
-
-}
-
-.f2 {
-    text-align: center;
-}
+    display: flex; 
+     /* justify-content: center;  */
+     padding: 40px;} 
